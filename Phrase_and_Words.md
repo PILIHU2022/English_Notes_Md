@@ -58,3 +58,4 @@ Because:
 
 Be full for sb. 为某人而充实\
 Another two hours = two more hours 另外两个小时
+once = one time
