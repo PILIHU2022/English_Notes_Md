@@ -55,4 +55,4 @@ On one's way to sw. 在去某地的路上\
 Want sth. 想要某物\
 Want sb. to do sth. 想让某人做某事\
 Want to do sth. 想要做某事\
-Such a/an + adj. + n单 
+Such a/an + adj. + n单 如此的……\
