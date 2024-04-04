@@ -17,3 +17,4 @@ Interview 介绍\
 # 短语
 Daily Habits 日常习惯\
 Surf the Internet 网上冲浪\
+Seldom 很少\
