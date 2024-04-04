@@ -53,9 +53,15 @@ Wait for sb. 等待某人\
 Feel like doing sth. 感觉好像在做某事\
 Because of + v./n. 由于……\
 Because:
-- +句子
-- +词语
+- +句子 ——因为……
+- +词语 ——未知
 
-Be full for sb. 为某人而充实\
-Another two hours = two more hours 另外两个小时
-once = one time
+Be full for sb. 为某人来说很忙\
+Another two hours = two more hours 另外两个小时\
+once = one time 一次\
+数 + percent of 百分之\
+such + n./pron. 如此的……\
+Die:
+- death n.
+- dead adj.
+- died 过去时
