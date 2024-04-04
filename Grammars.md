@@ -52,4 +52,7 @@ A big fan of …… ——……迷\
 Of + n. ——？\
 On one's way to sw. 在去某地的路上\
 频度副词放在行为动词的前面，Be动词的后面\
+Want sth. 想要某物\
 Want sb. to do sth. 想让某人做某事\
+Want to do sth. 想要做某事\
+Such a/an + adj. + n单 
