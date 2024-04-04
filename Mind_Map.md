@@ -2,3 +2,8 @@
 - There
 - Here
 - Home
+
+# Die:
+- death n.
+- dead adj.
+- died 过去时
