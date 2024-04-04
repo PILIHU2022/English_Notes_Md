@@ -12,6 +12,7 @@ Bird's Nest 鸟巢\
 Beijing duck 北京烤鸭\
 A Beijing hutong 一个北京胡同\
 the Great wall 长城\
+puppy 小狗
 # 短语
 That sounds + adj.\
 Get to + sw. 到达\
@@ -61,3 +62,9 @@ Another two hours = two more hours 另外两个小时\
 once = one time 一次\
 数 + percent of 百分之\
 such + n./pron. 如此的……\
+Get on 上车\
+A big fan of …… ——……迷\
+Of + n. ——？\
+On one's way to sw. 在去某地的路上\
+频度副词放在行为动词的前面，Be动词的后面\
+Want sb. to do sth. 想让某人做某事\
