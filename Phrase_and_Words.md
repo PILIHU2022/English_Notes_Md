@@ -15,4 +15,5 @@ the Great wall 长城\
 puppy 小狗\
 Interview 介绍\
 # 短语
-Daily Habits 日常习惯
+Daily Habits 日常习惯\
+Surf the Internet 网上冲浪\
