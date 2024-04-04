@@ -61,7 +61,3 @@ Another two hours = two more hours 另外两个小时\
 once = one time 一次\
 数 + percent of 百分之\
 such + n./pron. 如此的……\
-Die:
-- death n.
-- dead adj.
-- died 过去时
