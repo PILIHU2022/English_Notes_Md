@@ -14,3 +14,4 @@ A Beijing hutong 一个北京胡同\
 the Great wall 长城\
 puppy 小狗
 # 短语
+Daily Habits 日常习惯
