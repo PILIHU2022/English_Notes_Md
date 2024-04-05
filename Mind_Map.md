@@ -19,3 +19,8 @@
 # Finish
 - sth
 - doing sth
+
+# Hope
+- to do sth 希望做某事
+- sb + to do sth 希望某人做某事
+- 句子
