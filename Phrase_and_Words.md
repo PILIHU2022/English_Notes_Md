@@ -21,3 +21,4 @@ Daily Habits 日常习惯\
 Surf the Internet 网上冲浪\
 Calmed down 静下来\
 May not be 可能不\
+A pair of 一双/一对\
