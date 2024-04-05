@@ -75,3 +75,4 @@ Practice doing sth. 练习做某事\
 Be + v.过去分词 + by sb.
 Make sure to do sth
 Be not for sb. 不适合某人\
+Write + 代词 + down.
