@@ -65,3 +65,5 @@ From then on 从那时起\
 Mind + doing sth 介意做某事\
 Can't stand + doing sth 无法忍受做某事\
 Plan to do sth 计划做某事\
+Sth happened to sb 某人发生某事\
+Expect to do sth 期待做某事\
