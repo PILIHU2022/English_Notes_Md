@@ -10,4 +10,4 @@
 
 # Make sb
 - do sth 使某人做某事
-- adj. 
+- adj. 使某人怎样
