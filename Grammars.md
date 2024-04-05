@@ -58,4 +58,10 @@ Want to do sth. 想要做某事\
 Such a/an + adj. + n单 如此的……\
 Ask sb. about sth. 问某人关于某事\
 Take part in 参加\
-Be up to sb to do sth. 由……决定
+Be up to sb to do sth. 由……决定\
+Stop to do sth 停下来去做某事\
+Such as + doing sth \
+From then on 从那时起\
+Mind + doing sth 介意做某事\
+Can't stand + doing sth 无法忍受做某事\
+Plan to do sth 计划做某事\
