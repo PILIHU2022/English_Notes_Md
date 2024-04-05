@@ -1,4 +1,4 @@
-# 短语
+# 语法
 That sounds + adj.\
 Get to + sw. 到达\
 It's + adj. for sb. to do sth.\
