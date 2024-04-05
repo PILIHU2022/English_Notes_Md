@@ -11,3 +11,7 @@
 # Make sb
 - do sth 使某人做某事
 - adj. 使某人怎样
+
+# Choose
+- to do sth
+- sb/sth
