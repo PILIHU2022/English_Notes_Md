@@ -58,3 +58,4 @@ Want to do sth. 想要做某事\
 Such a/an + adj. + n单 如此的……\
 Ask sb. about sth. 问某人关于某事\
 Take part in 参加\
+Be up to sb to do sth. 由……决定
