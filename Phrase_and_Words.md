@@ -16,9 +16,15 @@ puppy 小狗\
 Interview 介绍\
 Seldom 很少\
 Fireworks 烟花\
+Company 公司\
+Physics 物理\
+Painful 痛苦的\
+Thoughtful 深思熟虑的\
 # 短语
 Daily Habits 日常习惯\
 Surf the Internet 网上冲浪\
 Calmed down 静下来\
 May not be 可能不\
 A pair of 一双/一对\
+Fight in the army 从军打仗\
+Acting lessons 表演课|
