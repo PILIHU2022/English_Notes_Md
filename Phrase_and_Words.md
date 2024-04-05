@@ -14,8 +14,9 @@ A Beijing hutong 一个北京胡同\
 the Great wall 长城\
 puppy 小狗\
 Interview 介绍\
+Seldom 很少\
+Fireworks 烟花\
 # 短语
 Daily Habits 日常习惯\
 Surf the Internet 网上冲浪\
-Seldom 很少\
-Fireworks 烟花\
+Calmed down 静下来\
