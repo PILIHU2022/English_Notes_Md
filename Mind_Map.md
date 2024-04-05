@@ -3,7 +3,11 @@
 - Here
 - Home
 
-# Die:
+# Die
 - death n.
 - dead adj.
 - died 过去时
+
+# Make sb
+- do sth 使某人做某事
+- adj. 
