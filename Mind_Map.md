@@ -15,3 +15,7 @@
 # Choose
 - to do sth
 - sb/sth
+
+# Finish
+- sth
+- doing sth
