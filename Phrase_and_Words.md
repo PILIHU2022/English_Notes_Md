@@ -18,3 +18,4 @@ Interview 介绍\
 Daily Habits 日常习惯\
 Surf the Internet 网上冲浪\
 Seldom 很少\
+Fireworks 烟花\
