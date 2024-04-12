@@ -67,7 +67,7 @@ Can't stand + doing sth 无法忍受做某事\
 Plan to do sth 计划做某事\
 Sth happened to sb 某人发生某事\
 Expect to do sth 期待做某事\
-？Become + adj./n. 变得……\
+Become + adj./n. 变得……\
 Try one's best to do sth 尽某人的力去做某事\
 Not so + adj./adv.原级 + as\
 Be famous for 因……而出名\
@@ -75,4 +75,6 @@ Practice doing sth. 练习做某事\
 Be + v.过去分词 + by sb.
 Make sure to do sth
 Be not for sb. 不适合某人\
-Write + 代词 + down.
+Write + 代词 + down.\
+Be bored with sb./sth. 对某人/物感到厌烦\
+Be bored with doing sth. 做某事感到厌烦\
