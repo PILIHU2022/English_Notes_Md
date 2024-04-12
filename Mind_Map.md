@@ -24,3 +24,8 @@
 - to do sth 希望做某事
 - sb + to do sth 希望某人做某事
 - 句子
+
+# Seem
+- It seem + that... 看来
+- Seem to do sth. 似乎做某事
+- Semm (to be) + adj./n. ... 看上去像...
